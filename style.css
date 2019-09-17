@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4UUSXxPtlik2jv75z/videoblocks-antarctic-nature-beautiful-colorful-sunset-cloudy-sky-bright-orange-clouds-reflected-in-ocean-majestic-polar-landscape-beauty-world-holiday-sport-and-recreation-travel-background-time-lapse-4k_stlmjgfkb_thumbnail-full01.png);
+}
+
 .navbar-text {
     padding: 10px;
 }
